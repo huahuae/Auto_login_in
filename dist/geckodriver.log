@@ -1,0 +1,6 @@
+1593479971458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIYCyL9"
+_IceTransSocketUNIXConnect: Cannot connect to non-local host zhangmeng-MS-7B89
+_IceTransSocketUNIXConnect: Cannot connect to non-local host zhangmeng-MS-7B89
+1593479974596	Marionette	INFO	Listening on port 35327
+1593479974712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593479986488	Marionette	INFO	Stopped listening on port 35327
